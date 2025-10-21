@@ -4,8 +4,10 @@ Here’s a clean, standardized, and professional version of your README.md for t
 # 🧭 Local Travel Planner
 
 A modular, multi-agent AI travel planner built with **FastAPI**, **LangGraph**, **LangChain**, and a frontend powered by **Streamlit** or **React**. It generates personalized itineraries, weather forecasts, packing lists, local food suggestions, and useful travel links.
+<img width="787" height="443" alt="image" src="https://github.com/user-attachments/assets/d69ec7e5-bd40-4bad-b15c-e4c33900a6a3" />
 
----
+---<img width="563" height="434" alt="image" src="https://github.com/user-attachments/assets/ec2c73cf-f18b-4bfd-ac94-81a1b050b056" />
+
 
 ## 🚀 Getting Started
 
